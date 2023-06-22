@@ -1,0 +1,21 @@
+.box {
+  background: green;
+  color: aliceblue;
+}
+
+#texto-1 {
+  margin: 50px 20px 30px 20px;
+  padding: 20px 30px 50px 30px;
+  border-top: 1px solid red;
+  border-right: 1px solid red;
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+  color: rgb(255, 255, 255);
+
+}
+
+#texto-2 {
+  padding: 30px;
+  color: rgb(255, 255, 255);
+
+}
